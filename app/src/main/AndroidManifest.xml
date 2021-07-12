@@ -17,6 +17,13 @@
             </intent-filter>
         </activity>
         <activity android:name=".sndpge"></activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-9950119704671600~8856973428"
+            />
     </application>
+
+
 
 </manifest>
